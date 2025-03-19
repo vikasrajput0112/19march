@@ -1,0 +1,6 @@
+#This is free style project, first line
+ls
+pwd
+date
+touch file5.txt
+ls
